@@ -1,4 +1,5 @@
 <Version: 1.02>
 /data/Map002.json https://raw.githubusercontent.com/OfficalGalaxyOnline/UpdaterForProject/master/Map002.json
+
 /img/picture/notifi-bell-youtube.png https://i.imgur.com/jb8gtm8.png
 <End Of Version>
